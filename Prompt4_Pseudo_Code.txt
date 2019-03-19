@@ -1,0 +1,22 @@
+Le psuedo code
+
+{
+	variables
+	
+	prompt user for password
+	if correct -> work as normal
+	else -> closes program
+
+	prompt user which way to convert decimal and roman numerals
+
+	(Decimal to Roman)
+	while loop to constantly compare the inputed value and take away from a temp value
+	all while printing the equivalent Roman version until temp is = to 0
+
+	(Roman to Decimal)
+	//sin incarnate
+	Lots of if statements and for loops to prevent wrong numeral values
+	while correct ones are adding the values together
+
+	//this made me sad
+}

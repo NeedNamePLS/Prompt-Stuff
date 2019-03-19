@@ -1,0 +1,6 @@
+Code prompts user to decided to go from either Decimal to Roman or Roman to Decimal
+Decimal to Roman takes the inputed value and creates a temp value to be put through
+the if statement gauntlet constantly checking its value and substracting from it and printing
+a Roman numeral equivalent. Roman to Decimal puts it through a different if/for loop gauntlet
+that checks if the input is a valid number then checks the valid answer and += values to the temp
+until the program reaches the end of the input.
