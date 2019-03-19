@@ -1,0 +1,5 @@
+The user will input a "field" string and a "search" string
+the "field" string is the base string that will be prodded and searched
+the "search" string is the substring that we are looking for in the "field" string (Just like the TSA)
+Then the program will search for a first occurrence and a second one if applicable
+If not it will state it could not find it and blame Travis

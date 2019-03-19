@@ -1,0 +1,11 @@
+Le psuedo code
+
+{
+	variables
+	
+	prompt user to input a string and a substring
+}
+
+{
+	code to take the string and look for the substring in it if applicable
+}
