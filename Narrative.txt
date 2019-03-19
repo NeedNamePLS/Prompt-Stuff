@@ -1,5 +1,0 @@
-This code, as the prompt says, prints a table of the Roman equivalent of the numbers 1 through 100.
-It uses a for loop to go through 1 through 100 and a while loop to go through alot of if statements while
-subtracting from a temp value until it reaches 0 then goes to the next numeral number to be compared.
-The user can expect just that, nothing more, nothing less.
-Unless you count some cosmetic formating for the printed table.
